@@ -47,6 +47,7 @@ Frontend-разработка на React, Next.js и TypeScript. Люблю ак
 
 | Проект | Стек | Описание |
 | --- | --- | --- |
+| [stop-list](https://github.com/Anyonatyasha/stop-list) | React, TypeScript, Node.js, Express, Vite | Стоп-лист для ресторана: блюда снимаются с продажи с причиной и сроком, оставшееся время отсчитывается в реальном времени, есть REST API |
 | [react-habits](https://github.com/Anyonatyasha/react-habits) | React, Ant Design, Chart.js, Vite | Трекер привычек: цели на день, серии, недельный график |
 | [payment-card-form](https://github.com/Anyonatyasha/payment-card-form) | HTML, CSS, JavaScript | Интерактивная форма оплаты с 3D-картой, которая переворачивается и показывает введённые данные |
 | [Sona](https://github.com/Anyonatyasha/Sona) | PHP, MySQL, Bootstrap | Учебный проект 2022: сайт отеля с бронированием, отзывами и админкой |
